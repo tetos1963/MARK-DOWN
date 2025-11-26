@@ -150,6 +150,8 @@ Ignorando su funsionamiento:
 # Curso de _Git_ & _GitHub_
 Hola soy tu amigo digital Hector Mora, Bienvenidos a mi pagina.
 
+Agregando nuevo contenido para volver a la consola con add
+
 ---
 
 
