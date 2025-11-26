@@ -1,0 +1,31 @@
+# -------------------------------
+# Plantilla de Conventional Commits
+# -------------------------------
+# Formato:
+# <tipo>(<scope>): <descripción breve>
+#
+# Tipos comunes:
+# feat     → Nueva funcionalidad
+# fix      → Corrección de errores
+# chore    → Mantenimiento, configuración, tareas menores
+# docs     → Cambios en documentación
+# style    → Formato, espacios, comas, sin afectar lógica
+# refactor → Reestructuración de código sin cambiar comportamiento
+# test     → Añadir o modificar pruebas
+# perf     → Mejoras de rendimiento
+#
+# Scope: área afectada (ej. api, ui, vscode, build, etc.)
+# -------------------------------
+
+<tipo>(<scope>): <descripción breve>
+
+# Cuerpo del commit:
+# Explica qué cambió y por qué.
+# Ejemplo:
+# Se ajusta la configuración de VS Code para excluir únicamente los subdirectorios vendor/yarn-* en lugar de todo vendor.
+# Esto permite mantener visibles otros archivos útiles dentro de vendor y reduce el ruido en búsquedas.
+
+# Impacto:
+# Describe el beneficio o efecto esperado.
+# Ejemplo:
+# Mejora la visibilidad de archivos relevantes y optimiza las búsquedas en el editor.
