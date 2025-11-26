@@ -147,6 +147,9 @@ Ignorando su funsionamiento:
 \*\*negrita\*\* y \_cursiva\_
 
 ---
+# Curso de _Git_ & _GitHub_
+Hola soy tu amigo digital Hector Mora, Bienvenidos a mi pagina.
+
 ---
 
 
