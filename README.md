@@ -130,7 +130,7 @@ function () {
   return a+b;
 }
 
-```
+```html
 <form>
   <label for="q">Buscar</label>
   <input type="search" name="q" id="q">
